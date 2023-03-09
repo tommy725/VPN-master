@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">VPN Master</string>
+    <string name="copyright">Created By 2023 © VPNMASTER INC.</string>
+    <string name="vpn_process" translatable="false">23327</string>
+    <string name="version">Version 1.0</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="carrier_id_title">Carrier ID: </string>
+    <string name="nav_header_title">Premium VPN</string>
+    <bool name="ads_switch">true</bool>
+    <bool name="facebook_list_ads">false</bool>
+    <bool name="admob_list_ads">true</bool>
+    <string name="privacy_policy_link">https://doc-hosting.flycricket.io/vpn-master-privacy-policy/9e486c09-cf19-4e36-b137-e7466197a938/privacy</string>
+    <string name="one_month">$3.29</string>
+    <string name="three_months">$4.39</string>
+    <string name="six_months">$6.59</string>
+    <string name="twelve_months">$9.49</string>
+    <string name="one_month_txt">Monthly</string>
+    <string name="three_months_txt">3 Months</string>
+    <string name="six_months_txt"> 6 Months</string>
+    <string name="twelve_months_txt">12 Months</string>
+    <string name="kBps">kB/s</string>
+    <string name="MBps">MB/s</string>
+    <string name="kbps">kb/s</string>
+    <string name="Mbps">Mb/s</string>
+    <string name="plus99">99+</string>
+    <string name="dash">-</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="welcome_message">Welcome to %1$s!</string>
+    <string name="privacy_policy_msg">By using this application, you agree to our Privacy Policy.</string>
+    <string name="privacy_policy_button">ACCEPT &amp; CONTINUE</string>
+    <string name="limited_offer">Limited Time Offer</string>
+    <string name="unlock">Unlock Premium Servers\nWith No Ads</string>
+    <string name="watch_to_unlock">Watch a Video to Unlock\nPremium Servers</string>
+
+    <string name="connecting">Connecting</string>
+    <string name="wait">Please wait</string>
+    <string name="auth">Authenticating</string>
+    <string name="recon">Reconnecting</string>
+    <string name="paused">Paused</string>
+    <string name="nonetwork">No Network</string>
+    <string name="disconnected">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="assign_ip">Assigning IP</string>
+    <string name="config">Getting Configurations</string>
+</resources>
